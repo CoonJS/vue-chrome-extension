@@ -14,3 +14,8 @@ npm run dev
 # build for production with minification
 npm run build
 ```
+
+
+##Preview
+
+![Preview] (https://github.com/CoonJS/vue-chrome-extension/tree/master/src/demo.jpg?raw=true)
