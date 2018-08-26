@@ -18,4 +18,4 @@ npm run build
 
 ##Preview
 
-![Preview](https://github.com/CoonJS/vue-chrome-extension/tree/master/src/demo.jpg?raw=true)
+![Preview](https://github.com/CoonJS/vue-chrome-extension/blob/master/src/demo.jpg)
