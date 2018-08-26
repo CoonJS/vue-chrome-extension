@@ -16,6 +16,6 @@ npm run build
 ```
 
 
-##Preview
+## Preview
 
 ![Preview](https://github.com/CoonJS/vue-chrome-extension/blob/master/src/demo.jpg)
